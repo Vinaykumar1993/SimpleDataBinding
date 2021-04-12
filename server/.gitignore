@@ -1,6 +1,7 @@
 #node js
 
 *.zip
+*.rar
 node_modules
 dist
 build

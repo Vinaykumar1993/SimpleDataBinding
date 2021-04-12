@@ -1,4 +1,4 @@
-# SimpleDataBinding
+# Simple Data Binding Using React and Node JS
 
 ### `Server Side`
 
